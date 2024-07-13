@@ -1,0 +1,9 @@
+版本號:
+-git version
+
+寫入使用者資訊
+- git config --global user.name 名字
+- git config --global user.email 電子信箱
+
+檢視設定資訊
+- git config --list
