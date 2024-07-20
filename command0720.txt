@@ -31,6 +31,8 @@
 
 9.將暫存區資料儲存到倉庫
 - git commit -m "第一次提交"
+- 修改上一次的commit
+	-git commit --amend
 
 10.提交後產生兩個object
 	- commit(sha-1) 
